@@ -13,5 +13,4 @@ Projeto Hospedado:
 
 
 
-#link do site
-https://p-h-g.github.io/Planetaterra/
+
