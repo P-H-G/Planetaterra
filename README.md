@@ -1,8 +1,10 @@
 <h1>Planeta Terra🌎 </h1>
 
-<p>fiz esse site com html css e js espero que gostem <br/>
+<p>Fiz esse site com html css e js espero que gostem <br/>
 Projeto Hospedado: 
 </p>
+
+#Link do Projeto  https://p-h-g.github.io/Planetaterra/
 
 <h3>Tecnologias Ultilizadas</h3>
 
